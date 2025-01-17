@@ -7,7 +7,7 @@ This project is a single-page, responsive website designed to provide accessible
 - **Link to User Stories in GitHub Projects:**
   - [GitHub Projects Kanban Board](https://github.com/yourusername/mental-health-awareness/projects)
 - **Wireframes:**
-  - [Wireframes](https://github.com/yourusername/mental-health-awareness/wireframes)
+  - [Wireframes](https://github.com/Hodoo08/Mental-Health-Awareness/blob/main/assets/New%20Project%201%20wireframe%20Final.pdf)
   - The wireframes were designed with high colour contrast and alt text for visual elements to ensure accessibility. The layout and design choices were made to enhance usability and accessibility for all users, including those using assistive technologies.
 - **Design Rationale:**
   - Key design decisions include a clean and simple layout, a calming colour scheme with green and white tones, and the use of Arial, a widely accessible font. Accessibility guidelines such as WCAG were integrated by ensuring sufficient colour contrast, keyboard navigability, and screen reader compatibility.
